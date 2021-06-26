@@ -12,6 +12,10 @@ A main toggle is available in the toolbar dropdown to selectively activate or de
 
 For any support or issues regarding Declutter, please open a thread [here](https://github.com/brandonlee503/DeclutterInfo/issues) or reach out to declutterappextension@gmail.com
 
+### Privacy
+
+See [privacy policy](Privacy.md).
+
 ### Acknowledgements
 
 Original icon artwork from https://www.icojam.com
