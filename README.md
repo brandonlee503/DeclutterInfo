@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="256" height="256" src="Icon256.png">
+</p>
+
 # Declutter
 
 Declutter is an extension that automatically closes duplicate tabs in Safari.
