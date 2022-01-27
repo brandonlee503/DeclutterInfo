@@ -4,7 +4,7 @@
 
 # Declutter
 
-[Declutter](https://apps.apple.com/us/app/declutter-for-safari/id1574021257) is an extension that automatically closes duplicate tabs in Safari.
+[Declutter](https://apps.apple.com/us/app/declutter-for-safari/id1574021257) is an extension that automatically closes duplicate tabs in Safari on macOS.
 
 A main toggle is available in the toolbar dropdown to selectively activate or deactivate decluttering.
 
