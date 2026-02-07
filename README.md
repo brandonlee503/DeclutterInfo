@@ -10,7 +10,7 @@ A main toggle is available in the toolbar dropdown to selectively activate or de
 
 ### Support
 
-For any support or issues regarding Declutter, please open a thread [here](https://github.com/brandonlee503/DeclutterInfo/issues) or reach out to declutterappextension@gmail.com
+For any support or issues regarding Declutter, please open a thread [here](https://github.com/brandonlee503/DeclutterInfo/issues) or reach out to bandanlee.apps@gmail.com
 
 ### Privacy
 
